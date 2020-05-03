@@ -25,7 +25,7 @@ SECRET_KEY = 'd)8r5!7v-jyga!45qk8(#66*!=83c&_gkpl8nzqsu3c2til!u6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['157.230.22.146']
+ALLOWED_HOSTS = ['157.230.22.146','my-inventory.ru','myinventory.site']
 
 
 # Application definition
